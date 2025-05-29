@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.40c15104.css",
+    "main.js": "/static/js/main.1838c5f7.js",
+    "static/media/seo.png": "/static/media/seo.a7d0710e3b2a31041600.png",
+    "static/media/koung.jpg": "/static/media/koung.d2c74fa8a8f6be1d69d4.jpg",
+    "static/media/bakong_Logo.png": "/static/media/bakong_Logo.b6f8bb36692b7a37ccab.png",
+    "static/media/Navbar.png": "/static/media/Navbar.f96a9f58c491b9acda99.png",
+    "static/media/avatar4.png": "/static/media/avatar4.54d5c1de851c273b2cd9.png",
+    "static/media/tola.jpg": "/static/media/tola.7e049b9443942c4856b5.jpg",
+    "index.html": "/index.html",
+    "static/media/checked.svg": "/static/media/checked.eebdda355aff27593261.svg",
+    "main.40c15104.css.map": "/static/css/main.40c15104.css.map",
+    "main.1838c5f7.js.map": "/static/js/main.1838c5f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40c15104.css",
+    "static/js/main.1838c5f7.js"
+  ]
+}
